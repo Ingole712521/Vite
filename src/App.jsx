@@ -4,11 +4,8 @@ KgButton
 
 function App() {
   return (<div>
+    this is my test 
 
-    <h1>
-      hello everyone 
-    </h1>
-    <KgButton></KgButton>
     
   </div>)
   
